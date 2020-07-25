@@ -58,6 +58,7 @@
       <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala06_Set$.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala07_MapFunction$$anonfun$main$1.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala07_MapFunction$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -218,7 +219,7 @@
       <workItem from="1595646746373" duration="76000" />
       <workItem from="1595647022519" duration="34000" />
       <workItem from="1595647720921" duration="4465000" />
-      <workItem from="1595671165527" duration="782000" />
+      <workItem from="1595671165527" duration="1071000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1595671673325</created>
@@ -227,7 +228,21 @@
       <option name="project" value="LOCAL" />
       <updated>1595671673325</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="测试">
+      <created>1595672091951</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595672091951</updated>
+    </task>
+    <task id="LOCAL-00003" summary="哈哈">
+      <created>1595672203633</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595672203633</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,7 +263,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+    <MESSAGE value="哈哈" />
+    <option name="LAST_COMMIT_MESSAGE" value="哈哈" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2521" y="432" key="#Notifications" timestamp="1595644085053">
@@ -282,10 +298,10 @@
     <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.965/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595648193585" />
     <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595646808398" />
     <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.978/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592022536765" />
-    <state x="1982" y="155" key="CommitChangelistDialog2" timestamp="1595671672963">
+    <state x="1982" y="155" key="CommitChangelistDialog2" timestamp="1595672203557">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
-    <state x="1982" y="155" key="CommitChangelistDialog2/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595671672963" />
+    <state x="1982" y="155" key="CommitChangelistDialog2/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595672203557" />
     <state x="2391" y="432" key="DetectedRootsChooserDialog" timestamp="1595646360250">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
@@ -359,6 +375,10 @@
     </state>
     <state x="2105" y="136" key="SettingsEditor/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595671246977" />
     <state x="2105" y="136" key="SettingsEditor/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595646522366" />
+    <state x="2241" y="320" key="Vcs.Push.Dialog.v2" timestamp="1595672094368">
+      <screen x="1680" y="59" width="1920" height="1057" />
+    </state>
+    <state x="2241" y="320" key="Vcs.Push.Dialog.v2/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595672094368" />
     <state x="2025" y="271" key="new project wizard" timestamp="1595645991317">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
