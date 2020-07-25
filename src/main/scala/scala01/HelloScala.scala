@@ -13,7 +13,7 @@ object HelloScala {
   // def关键字用于声明函数
   def main(args: Array[String]): Unit = {
     System.out.println("Hello Scala");
-    println("*" * 10)
+    println("*" * 1000)
   }
 
 }
