@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d4300fe-50dc-48d7-ba51-a081047c8679" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../scala180115/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/.idea/workspace.xml___jb_old___" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/java/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/java/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/java/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala01/HelloScala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala01/User.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala02/Scala01_Var.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala02/Scala02_DataType.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala02/Scala03_Name.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala02/Scala04_Function.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala02/Scala05_Control.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala02/Scala06_Function.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala02/Scala07_Exception.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala03/Scala01_Array.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala03/Scala02_Tuple.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala03/Scala03_List.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala03/Scala04_Queue.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala03/Scala05_Map.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala03/Scala06_Set.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala03/Scala07_MapFunction.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala01/HelloScala$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala01/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala01_Var$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala02_DataType$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala03_Name$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala04_Function$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala05_Control$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala05_Control$$anonfun$2$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala05_Control$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala05_Control$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala05_Control$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala05_Control.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala06_Function$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala01_Array$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala01_Array$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala01_Array$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala01_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala02_Tuple$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala03_List$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala05_Map$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala06_Set$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala07_MapFunction$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala07_MapFunction$.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/source/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="$USER_HOME$/source/apache-maven-3.5.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bO7zvxek5bjr8GtebBvYW2EPmV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager" selected="Application.HelloScala">
+    <configuration name="CatDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scala03.CatDemo" />
+      <module name="scalademo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scala03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloScala" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scala01.HelloScala" />
+      <module name="scalademo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scala01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scala03_Object" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scala03.Scala03_Object" />
+      <module name="scalademo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scala03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scala09_ExceptionDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scala02.Scala09_ExceptionDemo" />
+      <module name="scalademo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scala02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="haha" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scala01.haha" />
+      <module name="scalademo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scala01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloScala" />
+        <item itemvalue="Application.haha" />
+        <item itemvalue="Application.Scala03_Object" />
+        <item itemvalue="Application.Scala09_ExceptionDemo" />
+        <item itemvalue="Application.CatDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d4300fe-50dc-48d7-ba51-a081047c8679" name="Default Changelist" comment="" />
+      <created>1588491551794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588491551794</updated>
+      <workItem from="1588491553323" duration="1337000" />
+      <workItem from="1588492912832" duration="1564000" />
+      <workItem from="1588511477842" duration="310000" />
+      <workItem from="1588519087972" duration="76000" />
+      <workItem from="1592022411530" duration="2615000" />
+      <workItem from="1592065420568" duration="637000" />
+      <workItem from="1592095499683" duration="2508000" />
+      <workItem from="1592098399539" duration="649000" />
+      <workItem from="1592099137218" duration="5639000" />
+      <workItem from="1592110392763" duration="1840000" />
+      <workItem from="1592188314639" duration="12388000" />
+      <workItem from="1592321335419" duration="3086000" />
+      <workItem from="1595643097988" duration="324000" />
+      <workItem from="1595643441025" duration="265000" />
+      <workItem from="1595643729926" duration="96000" />
+      <workItem from="1595644037882" duration="159000" />
+      <workItem from="1595644730073" duration="345000" />
+      <workItem from="1595645267451" duration="45000" />
+      <workItem from="1595645614626" duration="809000" />
+      <workItem from="1595646444678" duration="80000" />
+      <workItem from="1595646746373" duration="76000" />
+      <workItem from="1595647022519" duration="34000" />
+      <workItem from="1595647720921" duration="4465000" />
+      <workItem from="1595671165527" duration="782000" />
+    </task>
+    <task id="LOCAL-00001" summary="测试">
+      <created>1595671673325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595671673325</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2521" y="432" key="#Notifications" timestamp="1595644085053">
+      <screen x="1680" y="59" width="1920" height="1057" />
+    </state>
+    <state x="2521" y="432" key="#Notifications/0.23.1680.962/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595644085053" />
+    <state x="2521" y="432" key="#Notifications/0.23.1680.983/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592280795988" />
+    <state x="2232" y="233" key="#Plugins" timestamp="1595644088247">
+      <screen x="1680" y="59" width="1920" height="1057" />
+    </state>
+    <state x="2232" y="233" key="#Plugins/0.23.1680.962/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595644088247" />
+    <state x="2373" y="349" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1592238612787">
+      <screen x="1680" y="59" width="1920" height="1057" />
+    </state>
+    <state x="2373" y="349" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1680.981/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592238612787" />
+    <state x="2096" y="247" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595644171448">
+      <screen x="1680" y="59" width="1920" height="1057" />
+    </state>
+    <state x="2096" y="247" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.961/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595643326300" />
+    <state x="2096" y="247" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.962/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595644171448" />
+    <state x="2377" y="507" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1595646232000">
+      <screen x="1680" y="59" width="1920" height="1057" />
+    </state>
+    <state x="2377" y="507" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1680.961/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595643337501" />
+    <state x="2377" y="507" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595646232000" />
+    <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1595664786090">
+      <screen x="1680" y="59" width="1920" height="1057" />
+    </state>
+    <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.962/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595644830084" />
+    <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595664786090" />
+    <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.965/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595648193585" />
+    <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595646808398" />
+    <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.978/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592022536765" />
+    <state x="1982" y="155" key="CommitChangelistDialog2" timestamp="1595671672963">
+      <screen x="1680" y="59" width="1920" height="1057" />
+    </state>
+    <state x="1982" y="155" key="CommitChangelistDialog2/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595671672963" />
+    <state x="2391" y="432" key="DetectedRootsChooserDialog" timestamp="1595646360250">
+      <screen x="1680" y="59" width="1920" height="1057" />
+    </state>
+    <state x="2391" y="432" key="DetectedRootsChooserDialog/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595646360250" />
+    <state width="1834" height="257" key="GridCell.Tab.0.bottom" timestamp="1595671096764">
+      <screen x="1680" y="59" width="1920" height="1057" />
+    </state>
+    <state width="1777" height="223" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.59.1920.1003@1680.59.1920.1003" timestamp="1592107483688" />
+    <state width="1777" height="284" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.59.1920.1005@1680.59.1920.1005" timestamp="1592105248723" />
+    <state width="1777" height="353" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.59.1920.1006@1680.59.1920.1006" timestamp="1592106473750" />
+    <state width="1777" height="284" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.59.1920.1007@1680.59.1920.1007" timestamp="1592103415321" />
+    <state width="1834" height="257" key="GridCell.Tab.0.bottom/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595671096764" />
+    <state width="1840" height="260" key="GridCell.Tab.0.bottom/0.23.1680.965/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595648184439" />
+    <state width="1777" height="507" key="GridCell.Tab.0.bottom/0.23.1680.975/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592111090978" />
+    <state width="1777" height="507" key="GridCell.Tab.0.bottom/0.23.1680.976/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592112809239" />
+    <state width="1747" height="345" key="GridCell.Tab.0.bottom/0.23.1680.978/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592097525286" />
+    <state width="1777" height="284" key="GridCell.Tab.0.bottom/0.23.1680.980/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592103116442" />
+    <state width="1803" height="247" key="GridCell.Tab.0.bottom/0.23.1680.981/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592321079365" />
+    <state width="1803" height="247" key="GridCell.Tab.0.bottom/0.23.1680.982/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592296026736" />
+    <state width="1803" height="243" key="GridCell.Tab.0.bottom/0.23.1680.983/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592279455387" />
+    <state width="1834" height="257" key="GridCell.Tab.0.center" timestamp="1595671096762">
+      <screen x="1680" y="59" width="1920" height="1057" />
+    </state>
+    <state width="1777" height="223" key="GridCell.Tab.0.center/0.23.1680.1027/1680.59.1920.1003@1680.59.1920.1003" timestamp="1592107483688" />
+    <state width="1777" height="284" key="GridCell.Tab.0.center/0.23.1680.1027/1680.59.1920.1005@1680.59.1920.1005" timestamp="1592105248722" />
+    <state width="1777" height="353" key="GridCell.Tab.0.center/0.23.1680.1027/1680.59.1920.1006@1680.59.1920.1006" timestamp="1592106473749" />
+    <state width="1777" height="284" key="GridCell.Tab.0.center/0.23.1680.1027/1680.59.1920.1007@1680.59.1920.1007" timestamp="1592103415319" />
+    <state width="1834" height="257" key="GridCell.Tab.0.center/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595671096762" />
+    <state width="1840" height="260" key="GridCell.Tab.0.center/0.23.1680.965/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595648184438" />
+    <state width="1777" height="507" key="GridCell.Tab.0.center/0.23.1680.975/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592111090977" />
+    <state width="1777" height="507" key="GridCell.Tab.0.center/0.23.1680.976/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592112809238" />
+    <state width="1747" height="345" key="GridCell.Tab.0.center/0.23.1680.978/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592097525285" />
+    <state width="1777" height="284" key="GridCell.Tab.0.center/0.23.1680.980/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592103116441" />
+    <state width="1803" height="247" key="GridCell.Tab.0.center/0.23.1680.981/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592321079364" />
+    <state width="1803" height="247" key="GridCell.Tab.0.center/0.23.1680.982/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592296026734" />
+    <state width="1803" height="243" key="GridCell.Tab.0.center/0.23.1680.983/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592279455386" />
+    <state width="1834" height="257" key="GridCell.Tab.0.left" timestamp="1595671096762">
+      <screen x="1680" y="59" width="1920" height="1057" />
+    </state>
+    <state width="1777" height="223" key="GridCell.Tab.0.left/0.23.1680.1027/1680.59.1920.1003@1680.59.1920.1003" timestamp="1592107483687" />
+    <state width="1777" height="284" key="GridCell.Tab.0.left/0.23.1680.1027/1680.59.1920.1005@1680.59.1920.1005" timestamp="1592105248721" />
+    <state width="1777" height="353" key="GridCell.Tab.0.left/0.23.1680.1027/1680.59.1920.1006@1680.59.1920.1006" timestamp="1592106473748" />
+    <state width="1777" height="284" key="GridCell.Tab.0.left/0.23.1680.1027/1680.59.1920.1007@1680.59.1920.1007" timestamp="1592103415318" />
+    <state width="1834" height="257" key="GridCell.Tab.0.left/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595671096762" />
+    <state width="1840" height="260" key="GridCell.Tab.0.left/0.23.1680.965/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595648184437" />
+    <state width="1777" height="507" key="GridCell.Tab.0.left/0.23.1680.975/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592111090976" />
+    <state width="1777" height="507" key="GridCell.Tab.0.left/0.23.1680.976/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592112809237" />
+    <state width="1747" height="345" key="GridCell.Tab.0.left/0.23.1680.978/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592097525285" />
+    <state width="1777" height="284" key="GridCell.Tab.0.left/0.23.1680.980/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592103116441" />
+    <state width="1803" height="247" key="GridCell.Tab.0.left/0.23.1680.981/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592321079364" />
+    <state width="1803" height="247" key="GridCell.Tab.0.left/0.23.1680.982/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592296026733" />
+    <state width="1803" height="243" key="GridCell.Tab.0.left/0.23.1680.983/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592279455385" />
+    <state width="1834" height="257" key="GridCell.Tab.0.right" timestamp="1595671096763">
+      <screen x="1680" y="59" width="1920" height="1057" />
+    </state>
+    <state width="1777" height="223" key="GridCell.Tab.0.right/0.23.1680.1027/1680.59.1920.1003@1680.59.1920.1003" timestamp="1592107483688" />
+    <state width="1777" height="284" key="GridCell.Tab.0.right/0.23.1680.1027/1680.59.1920.1005@1680.59.1920.1005" timestamp="1592105248722" />
+    <state width="1777" height="353" key="GridCell.Tab.0.right/0.23.1680.1027/1680.59.1920.1006@1680.59.1920.1006" timestamp="1592106473749" />
+    <state width="1777" height="284" key="GridCell.Tab.0.right/0.23.1680.1027/1680.59.1920.1007@1680.59.1920.1007" timestamp="1592103415320" />
+    <state width="1834" height="257" key="GridCell.Tab.0.right/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595671096763" />
+    <state width="1840" height="260" key="GridCell.Tab.0.right/0.23.1680.965/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595648184439" />
+    <state width="1777" height="507" key="GridCell.Tab.0.right/0.23.1680.975/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592111090977" />
+    <state width="1777" height="507" key="GridCell.Tab.0.right/0.23.1680.976/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592112809239" />
+    <state width="1747" height="345" key="GridCell.Tab.0.right/0.23.1680.978/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592097525286" />
+    <state width="1777" height="284" key="GridCell.Tab.0.right/0.23.1680.980/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592103116441" />
+    <state width="1803" height="247" key="GridCell.Tab.0.right/0.23.1680.981/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592321079365" />
+    <state width="1803" height="247" key="GridCell.Tab.0.right/0.23.1680.982/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592296026734" />
+    <state width="1803" height="243" key="GridCell.Tab.0.right/0.23.1680.983/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592279455387" />
+    <state x="2105" y="136" key="SettingsEditor" timestamp="1595671246977">
+      <screen x="1680" y="59" width="1920" height="1057" />
+    </state>
+    <state x="2105" y="136" key="SettingsEditor/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595671246977" />
+    <state x="2105" y="136" key="SettingsEditor/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595646522366" />
+    <state x="2025" y="271" key="new project wizard" timestamp="1595645991317">
+      <screen x="1680" y="59" width="1920" height="1057" />
+    </state>
+    <state x="2025" y="271" key="new project wizard/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595645991317" />
+  </component>
+</project>
