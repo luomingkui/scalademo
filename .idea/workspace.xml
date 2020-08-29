@@ -1,185 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d4300fe-50dc-48d7-ba51-a081047c8679" name="Default Changelist" comment="哈哈哈哈aa">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/scala_sdk_2_11_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scalademo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/luomk/exer/JavaExceptionDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/luomk/exer/JavaHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter01/InputCon.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala06_Control_dowhile.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala07_Exercise01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala07_Exercise02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala07_Exercise03.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter03/Scala03_procedure.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter04/Scala02_CreateObj.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter04/Scala03_MethodDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter04/Scala04_ConDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter04/Scala04_ConDemo02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter04/Scala04_ConDemo03.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter04/Scala04_ConDemo04.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter04/Scala05_BeanPropertDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter05/JavaBaseConstractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter05/Scala01_AbstractDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter05/Scala01_BankDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter05/Scala02_ScalaBaseConstrator.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter05/Scala03_Extends.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter05/Scala04_FiledOverrideDetail.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter05/Scala05_TypeConvert.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter06/Scala01_AccompanyObject.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter06/Scala02_ApplyDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter06/Scala03_TraitDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter06/Scala04_MixInDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter06/Scala05_AddTraits.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter06/Scala06_Logger.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter06/Scala07_Feline.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter07/Scala01_ImplicitNotice.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter07/Scala02_Implicit.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter07/Scala03_ImplicitVal.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter07/Scala04_ImplicitClassDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala01_Array22ArrayBuffer.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala01_ArrayBuffer2JavaList.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala01_ArrayBufferDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala01_ArrayDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala01_ArrayDemo02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala01_MultiplyArray.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala03_ListBufferDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala03_ListDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Exercise01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Exercise02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Exercise03.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala01_MapOperateDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala01_MapOperateDemo02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala02_FlatMapDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala03_FilterDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala04_ReduceDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala04_ReduceExercise01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala05_FoldDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala05_FoldDemo02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala06_ScanDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala07_ZipDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala07_ZipDemo02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala08_IteratorDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala08_IteratorDemo02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala09_StreamDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala10_ViewDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala11_ParallelCollection.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala12_OperatorDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/MatchExercise01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/MatchExercise02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala01_MatchDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala02_MatchIfDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala03_MatchVarDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala03_MatchVarDemo02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala04_MatchTypeDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala04_MatchTypeDemo02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala05_MatchArr.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala06_MatchList.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala07_MatchTupleDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala08_MatchObjectDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala08_MatchObjectDemo2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala09_MatchVarDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala10_MatchForDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala11_CaseClassDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala11_CaseClassDemo02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala11_CaseClassDemo03.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala12_MidCase.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala13_SalesDem01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala14_seale.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala01_PartialFunDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala01_PartialFunDemo02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala01_PartialFunDemo03.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala01_PartialFunDemo04.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala02_ValueDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala03_FunParameter.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala04_AnonymouseFunction.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala05_ParameterInfer.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala06_HighOrderFunDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala06_HighOrderFunDemo02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala06_HigherOrderFunction.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala06_HigherOrderFunction2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala07_ClosureDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala08_CurryDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala09_AbstractControl.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter12/Scala01_RecursiveDemo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter12/Scala02_RecursiveDemo02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter14/Scala01_FileSyllabus.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter14/Scala02_FromFile.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter14/Scala03_FromFile.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter14/Scala04_FromFile.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter14/Scala05_PersonMain.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter14/Scala06_Regex.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter15/Scala01_Demo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter15/Scala02_MethodType.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter15/Scala03_Main1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter15/Scala03_Main2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter15/Scala04_Main3.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter15/Scala05_Covariance.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/NetWork.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/Person.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/Scala01_Demo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/Scala02_Demo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/Scala03_Demo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/Scala04_ComplexType.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/Scala05_Demo01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/Scala06_ExistsType.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/Scala07_ConcreteType.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/Scala08_AbstractType.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/StructType.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/Student.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="8d4300fe-50dc-48d7-ba51-a081047c8679" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luomk/exer/JVMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luomk/exer/JVMTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala01/HelloScala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter01/HelloScala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala01/Test.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter01/Test.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala01/User.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/JavaExceptionDemo01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala01_Var.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala01_Var.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala02_DataType.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala02_DataType.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala03_Name.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala03_Name.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala04_Function.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala04_Function.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala05_Control_for.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala05_Control_for.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala05_Control_ifelse.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala05_Control_ifelse.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala05_Control_while.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala05_Control_while.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala06_Function.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter03/Scala01_Function.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala07_Exercise.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter03/Scala02_Exercise.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala08_lazy.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter03/Scala04_lazy.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala09_ExceptionDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter03/Scala05_Exception.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/CatDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter04/Scala01_CatDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Person.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala01_ClassConstructor.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala01_ClassConstructor2.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala01_Main.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala02_InnerClass01.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala02_InnerClass02.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala02_InnerClass03.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala03_Dog.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala04_Apply01.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala04_Apply02.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala04_Hello.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala04_TrafficLightColor.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala05_Package.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala01_Array1.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala02_Tuple.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala02_Tuple.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala03_List.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala03_ListDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala04_Queue.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala05_Queue.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala05_Map.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala06_MapDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala06_Set.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala07_SetDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala07_MapFunction.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala08_Stream.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala09_view.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala10_Thread.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala11_Switch.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala08/Scala01.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala08/Scala02.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala08/Scala03.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala09/Scala01_Extends.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala09/Scala02_Override.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala10/Scala01_Trait01.scala" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -374,7 +198,7 @@
       <workItem from="1598354889728" duration="359000" />
       <workItem from="1598410639663" duration="39384000" />
       <workItem from="1598579863924" duration="8250000" />
-      <workItem from="1598627918287" duration="7903000" />
+      <workItem from="1598627918287" duration="8946000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1595671673325</created>
@@ -411,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595672299798</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="练习代码">
+      <created>1598721106462</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598721106462</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,7 +266,8 @@
     <MESSAGE value="哈哈" />
     <MESSAGE value="哈哈哈哈" />
     <MESSAGE value="哈哈哈哈aasss" />
-    <option name="LAST_COMMIT_MESSAGE" value="哈哈哈哈aasss" />
+    <MESSAGE value="练习代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="练习代码" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2521" y="432" key="#Notifications" timestamp="1598112207398">
@@ -482,10 +314,11 @@
     <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.965/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595648193585" />
     <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598112543386" />
     <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.978/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592022536765" />
-    <state x="1982" y="155" key="CommitChangelistDialog2" timestamp="1595672299714">
+    <state x="1982" y="155" key="CommitChangelistDialog2" timestamp="1598721105900">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
     <state x="1982" y="155" key="CommitChangelistDialog2/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595672299714" />
+    <state x="1982" y="155" key="CommitChangelistDialog2/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598721105900" />
     <state x="2391" y="432" key="DetectedRootsChooserDialog" timestamp="1595646360250">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
@@ -744,10 +577,11 @@
     <state x="2105" y="136" key="SettingsEditor/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598111263453" />
     <state x="2105" y="136" key="SettingsEditor/0.23.1680.965/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598113742537" />
     <state x="2105" y="136" key="SettingsEditor/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598113005224" />
-    <state x="2241" y="320" key="Vcs.Push.Dialog.v2" timestamp="1595672305109">
+    <state x="2241" y="320" key="Vcs.Push.Dialog.v2" timestamp="1598721110935">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
     <state x="2241" y="320" key="Vcs.Push.Dialog.v2/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595672305109" />
+    <state x="2241" y="320" key="Vcs.Push.Dialog.v2/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598721110935" />
     <state x="1816" y="123" width="1663" height="790" key="dock-window-1" timestamp="1598425142256">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
