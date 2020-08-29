@@ -16,7 +16,6 @@ public class JavaHashMap {
         hm.put("no3", 300);
         hm.put("no4", 400);
         hm.put("no1", 500); //更新
-
         System.out.println(hm);//无序的
         System.out.println(hm.get("no2"));
 

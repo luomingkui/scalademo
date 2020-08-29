@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d4300fe-50dc-48d7-ba51-a081047c8679" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luomk/exer/JavaHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luomk/exer/JavaHashMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +197,7 @@
       <workItem from="1598354889728" duration="359000" />
       <workItem from="1598410639663" duration="39384000" />
       <workItem from="1598579863924" duration="8250000" />
-      <workItem from="1598627918287" duration="8946000" />
+      <workItem from="1598627918287" duration="9279000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1595671673325</created>
@@ -242,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598721106462</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="README.md">
+      <created>1598722155038</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598722155038</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,7 +273,8 @@
     <MESSAGE value="哈哈哈哈" />
     <MESSAGE value="哈哈哈哈aasss" />
     <MESSAGE value="练习代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="练习代码" />
+    <MESSAGE value="README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2521" y="432" key="#Notifications" timestamp="1598112207398">
@@ -314,11 +321,12 @@
     <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.965/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595648193585" />
     <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598112543386" />
     <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.978/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592022536765" />
-    <state x="1982" y="155" key="CommitChangelistDialog2" timestamp="1598721105900">
+    <state x="1982" y="155" key="CommitChangelistDialog2" timestamp="1598722154902">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
     <state x="1982" y="155" key="CommitChangelistDialog2/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595672299714" />
     <state x="1982" y="155" key="CommitChangelistDialog2/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598721105900" />
+    <state x="1982" y="155" key="CommitChangelistDialog2/0.23.1680.971/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598722154902" />
     <state x="2391" y="432" key="DetectedRootsChooserDialog" timestamp="1595646360250">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
