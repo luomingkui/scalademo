@@ -2,63 +2,184 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d4300fe-50dc-48d7-ba51-a081047c8679" name="Default Changelist" comment="哈哈哈哈aa">
-      <change afterPath="$PROJECT_DIR$/../scala180115/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/.idea/workspace.xml___jb_old___" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/java/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/java/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/java/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala01/HelloScala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala01/User.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala02/Scala01_Var.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala02/Scala02_DataType.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala02/Scala03_Name.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala02/Scala04_Function.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala02/Scala05_Control.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala02/Scala06_Function.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala02/Scala07_Exception.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala03/Scala01_Array.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala03/Scala02_Tuple.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala03/Scala03_List.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala03/Scala04_Queue.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala03/Scala05_Map.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala03/Scala06_Set.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/src/main/scala/scala03/Scala07_MapFunction.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/Test03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala01/HelloScala$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala01/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala01_Var$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala02_DataType$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala03_Name$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala04_Function$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala05_Control$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala05_Control$$anonfun$2$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala05_Control$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala05_Control$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala05_Control$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala05_Control.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala02/Scala06_Function$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala01_Array$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala01_Array$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala01_Array$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala01_Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala02_Tuple$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala03_List$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala05_Map$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala06_Set$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala07_MapFunction$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala180115/target/classes/scala03/Scala07_MapFunction$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scala01/HelloScala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/scala01/HelloScala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/scala_sdk_2_11_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scalademo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luomk/exer/JavaExceptionDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luomk/exer/JavaHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter01/InputCon.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala06_Control_dowhile.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala07_Exercise01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala07_Exercise02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala07_Exercise03.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter03/Scala03_procedure.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter04/Scala02_CreateObj.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter04/Scala03_MethodDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter04/Scala04_ConDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter04/Scala04_ConDemo02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter04/Scala04_ConDemo03.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter04/Scala04_ConDemo04.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter04/Scala05_BeanPropertDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter05/JavaBaseConstractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter05/Scala01_AbstractDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter05/Scala01_BankDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter05/Scala02_ScalaBaseConstrator.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter05/Scala03_Extends.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter05/Scala04_FiledOverrideDetail.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter05/Scala05_TypeConvert.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter06/Scala01_AccompanyObject.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter06/Scala02_ApplyDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter06/Scala03_TraitDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter06/Scala04_MixInDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter06/Scala05_AddTraits.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter06/Scala06_Logger.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter06/Scala07_Feline.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter07/Scala01_ImplicitNotice.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter07/Scala02_Implicit.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter07/Scala03_ImplicitVal.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter07/Scala04_ImplicitClassDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala01_Array22ArrayBuffer.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala01_ArrayBuffer2JavaList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala01_ArrayBufferDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala01_ArrayDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala01_ArrayDemo02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala01_MultiplyArray.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala03_ListBufferDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala03_ListDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Exercise01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Exercise02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Exercise03.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala01_MapOperateDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala01_MapOperateDemo02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala02_FlatMapDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala03_FilterDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala04_ReduceDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala04_ReduceExercise01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala05_FoldDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala05_FoldDemo02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala06_ScanDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala07_ZipDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala07_ZipDemo02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala08_IteratorDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala08_IteratorDemo02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala09_StreamDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala10_ViewDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala11_ParallelCollection.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter09/Scala12_OperatorDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/MatchExercise01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/MatchExercise02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala01_MatchDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala02_MatchIfDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala03_MatchVarDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala03_MatchVarDemo02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala04_MatchTypeDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala04_MatchTypeDemo02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala05_MatchArr.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala06_MatchList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala07_MatchTupleDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala08_MatchObjectDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala08_MatchObjectDemo2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala09_MatchVarDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala10_MatchForDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala11_CaseClassDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala11_CaseClassDemo02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala11_CaseClassDemo03.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala12_MidCase.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala13_SalesDem01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter10/Scala14_seale.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala01_PartialFunDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala01_PartialFunDemo02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala01_PartialFunDemo03.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala01_PartialFunDemo04.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala02_ValueDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala03_FunParameter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala04_AnonymouseFunction.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala05_ParameterInfer.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala06_HighOrderFunDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala06_HighOrderFunDemo02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala06_HigherOrderFunction.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala06_HigherOrderFunction2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala07_ClosureDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala08_CurryDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter11/Scala09_AbstractControl.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter12/Scala01_RecursiveDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter12/Scala02_RecursiveDemo02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter14/Scala01_FileSyllabus.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter14/Scala02_FromFile.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter14/Scala03_FromFile.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter14/Scala04_FromFile.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter14/Scala05_PersonMain.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter14/Scala06_Regex.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter15/Scala01_Demo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter15/Scala02_MethodType.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter15/Scala03_Main1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter15/Scala03_Main2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter15/Scala04_Main3.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter15/Scala05_Covariance.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/NetWork.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/Person.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/Scala01_Demo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/Scala02_Demo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/Scala03_Demo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/Scala04_ComplexType.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/Scala05_Demo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/Scala06_ExistsType.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/Scala07_ConcreteType.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/Scala08_AbstractType.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/StructType.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter16/Student.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luomk/exer/JVMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luomk/exer/JVMTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala01/HelloScala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter01/HelloScala.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala01/Test.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter01/Test.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala01/User.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/JavaExceptionDemo01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala01_Var.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala01_Var.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala02_DataType.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala02_DataType.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala03_Name.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala03_Name.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala04_Function.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala04_Function.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala05_Control_for.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala05_Control_for.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala05_Control_ifelse.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala05_Control_ifelse.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala05_Control_while.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter02/Scala05_Control_while.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala06_Function.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter03/Scala01_Function.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala07_Exercise.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter03/Scala02_Exercise.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala08_lazy.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter03/Scala04_lazy.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala02/Scala09_ExceptionDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter03/Scala05_Exception.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/CatDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter04/Scala01_CatDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Person.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala01_ClassConstructor.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala01_ClassConstructor2.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala01_Main.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala02_InnerClass01.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala02_InnerClass02.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala02_InnerClass03.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala03_Dog.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala04_Apply01.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala04_Apply02.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala04_Hello.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala04_TrafficLightColor.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala03/Scala05_Package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala01_Array1.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala02_Tuple.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala02_Tuple.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala03_List.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala03_ListDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala04_Queue.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala05_Queue.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala05_Map.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala06_MapDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala06_Set.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/chapter08/Scala07_SetDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala07_MapFunction.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala08_Stream.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala09_view.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala10_Thread.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala07/Scala11_Switch.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala08/Scala01.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala08/Scala02.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala08/Scala03.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala09/Scala01_Extends.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala09/Scala02_Override.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scala10/Scala01_Trait01.scala" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +193,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Scala Object" />
+        <option value="Package Object" />
       </list>
     </option>
   </component>
@@ -81,8 +204,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$USER_HOME$/source/apache-maven-3.5.0" />
-        <option name="userSettingsFile" value="$USER_HOME$/source/apache-maven-3.5.0/conf/settings.xml" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -104,19 +226,26 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.HelloScala">
-    <configuration name="CatDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scala03.CatDemo" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala" />
+      <recent name="$PROJECT_DIR$/src/main/scala/chapter13" />
+      <recent name="$PROJECT_DIR$/src/main/scala/chapter09" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Scala03_Demo01">
+    <configuration name="Scala01_Demo01 (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.Scala01_Demo01" />
       <module name="scalademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scala03.*" />
+          <option name="PATTERN" value="chapter16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +253,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloScala" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scala01.HelloScala" />
+    <configuration name="Scala02_Demo01" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.Scala02_Demo01" />
       <module name="scalademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scala01.*" />
+          <option name="PATTERN" value="chapter16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +266,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scala03_Object" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scala03.Scala03_Object" />
+    <configuration name="Scala03_Demo01" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.Scala03_Demo01" />
       <module name="scalademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scala03.*" />
+          <option name="PATTERN" value="chapter16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scala09_ExceptionDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scala02.Scala09_ExceptionDemo" />
+    <configuration name="Scala04_Main3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="chapter15.Scala04_Main3" />
       <module name="scalademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scala02.*" />
+          <option name="PATTERN" value="chapter15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="haha" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scala01.haha" />
+    <configuration name="Scala05_Covariance" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="chapter15.Scala05_Covariance" />
       <module name="scalademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scala01.*" />
+          <option name="PATTERN" value="chapter15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +307,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloScala" />
-        <item itemvalue="Application.haha" />
-        <item itemvalue="Application.Scala03_Object" />
-        <item itemvalue="Application.Scala09_ExceptionDemo" />
-        <item itemvalue="Application.CatDemo" />
+        <item itemvalue="Application.Scala03_Demo01" />
+        <item itemvalue="Application.Scala02_Demo01" />
+        <item itemvalue="Application.Scala01_Demo01 (1)" />
+        <item itemvalue="Application.Scala05_Covariance" />
+        <item itemvalue="Application.Scala04_Main3" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +348,33 @@
       <workItem from="1595646746373" duration="76000" />
       <workItem from="1595647022519" duration="34000" />
       <workItem from="1595647720921" duration="4465000" />
-      <workItem from="1595671165527" duration="1113000" />
+      <workItem from="1595671165527" duration="31439000" />
+      <workItem from="1595839073219" duration="975000" />
+      <workItem from="1595860145267" duration="3434000" />
+      <workItem from="1595892179302" duration="4252000" />
+      <workItem from="1595901803810" duration="7271000" />
+      <workItem from="1596074998495" duration="3388000" />
+      <workItem from="1596338028826" duration="16797000" />
+      <workItem from="1596381132108" duration="9611000" />
+      <workItem from="1596421305500" duration="495000" />
+      <workItem from="1596467171934" duration="5352000" />
+      <workItem from="1596643556436" duration="548000" />
+      <workItem from="1597112586227" duration="789000" />
+      <workItem from="1597503408152" duration="1583000" />
+      <workItem from="1597570663296" duration="6565000" />
+      <workItem from="1598108957563" duration="1009000" />
+      <workItem from="1598111006732" duration="34000" />
+      <workItem from="1598111058045" duration="57000" />
+      <workItem from="1598111147781" duration="375000" />
+      <workItem from="1598111562399" duration="604000" />
+      <workItem from="1598112190531" duration="1559000" />
+      <workItem from="1598113799028" duration="1361000" />
+      <workItem from="1598192565079" duration="1533000" />
+      <workItem from="1598339070573" duration="1502000" />
+      <workItem from="1598354889728" duration="359000" />
+      <workItem from="1598410639663" duration="39384000" />
+      <workItem from="1598579863924" duration="8250000" />
+      <workItem from="1598627918287" duration="7903000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1595671673325</created>
@@ -249,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595672247996</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="哈哈哈哈aasss">
+      <created>1595672299798</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595672299798</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,124 +434,334 @@
     <MESSAGE value="测试" />
     <MESSAGE value="哈哈" />
     <MESSAGE value="哈哈哈哈" />
-    <option name="LAST_COMMIT_MESSAGE" value="哈哈哈哈" />
+    <MESSAGE value="哈哈哈哈aasss" />
+    <option name="LAST_COMMIT_MESSAGE" value="哈哈哈哈aasss" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2521" y="432" key="#Notifications" timestamp="1595644085053">
+    <state x="2521" y="432" key="#Notifications" timestamp="1598112207398">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
     <state x="2521" y="432" key="#Notifications/0.23.1680.962/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595644085053" />
+    <state x="2521" y="432" key="#Notifications/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595773610858" />
+    <state x="2521" y="432" key="#Notifications/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598112207398" />
     <state x="2521" y="432" key="#Notifications/0.23.1680.983/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592280795988" />
     <state x="2232" y="233" key="#Plugins" timestamp="1595644088247">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
     <state x="2232" y="233" key="#Plugins/0.23.1680.962/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595644088247" />
-    <state x="2373" y="349" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1592238612787">
-      <screen x="1680" y="59" width="1920" height="1057" />
+    <state x="2373" y="313" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1598522015734">
+      <screen x="1680" y="23" width="1920" height="1057" />
     </state>
+    <state x="2373" y="313" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1680.976/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598522015734" />
     <state x="2373" y="349" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1680.981/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592238612787" />
-    <state x="2096" y="247" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595644171448">
+    <state x="2096" y="247" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598113280239">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
     <state x="2096" y="247" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.961/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595643326300" />
     <state x="2096" y="247" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.962/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595644171448" />
-    <state x="2377" y="507" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1595646232000">
+    <state x="2096" y="247" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598111090509" />
+    <state x="2096" y="247" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598113280239" />
+    <state x="2377" y="507" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1598112426204">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
     <state x="2377" y="507" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1680.961/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595643337501" />
+    <state x="2377" y="507" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598110961095" />
     <state x="2377" y="507" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595646232000" />
-    <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1595664786090">
+    <state x="2377" y="507" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1680.971/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598112426204" />
+    <state x="2446" y="258" key="#com.intellij.ide.util.MemberChooser" timestamp="1598424556696">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2446" y="294" key="#com.intellij.ide.util.MemberChooser/0.23.1680.965/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595690839103" />
+    <state x="2446" y="258" key="#com.intellij.ide.util.MemberChooser/0.23.1680.967/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598424556696" />
+    <state x="2446" y="294" key="#com.intellij.ide.util.MemberChooser/0.23.1680.976/1680.59.1920.1057@1680.59.1920.1057" timestamp="1596339777024" />
+    <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1598112543386">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
     <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.962/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595644830084" />
     <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595664786090" />
     <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.965/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595648193585" />
-    <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595646808398" />
+    <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598112543386" />
     <state x="2251" y="277" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.978/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592022536765" />
-    <state x="1982" y="155" key="CommitChangelistDialog2" timestamp="1595672268551">
+    <state x="1982" y="155" key="CommitChangelistDialog2" timestamp="1595672299714">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
-    <state x="1982" y="155" key="CommitChangelistDialog2/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595672268551" />
+    <state x="1982" y="155" key="CommitChangelistDialog2/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595672299714" />
     <state x="2391" y="432" key="DetectedRootsChooserDialog" timestamp="1595646360250">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
     <state x="2391" y="432" key="DetectedRootsChooserDialog/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595646360250" />
-    <state width="1834" height="257" key="GridCell.Tab.0.bottom" timestamp="1595671096764">
+    <state width="1790" height="217" key="GridCell.Tab.0.bottom" timestamp="1598720890894">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
-    <state width="1777" height="223" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.59.1920.1003@1680.59.1920.1003" timestamp="1592107483688" />
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom/0.0.1680.1050/1680.36.1920.1080@1680.36.1920.1080" timestamp="1596339368348" />
+    <state width="1830" height="201" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.23.1920.990@1680.23.1920.990" timestamp="1598440624543" />
+    <state width="1846" height="264" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.59.1920.1001@1680.59.1920.1001" timestamp="1596389002982" />
+    <state width="1846" height="264" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.59.1920.1002@1680.59.1920.1002" timestamp="1596390775372" />
+    <state width="1846" height="264" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.59.1920.1003@1680.59.1920.1003" timestamp="1596383678073" />
     <state width="1777" height="284" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.59.1920.1005@1680.59.1920.1005" timestamp="1592105248723" />
     <state width="1777" height="353" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.59.1920.1006@1680.59.1920.1006" timestamp="1592106473750" />
     <state width="1777" height="284" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.59.1920.1007@1680.59.1920.1007" timestamp="1592103415321" />
-    <state width="1834" height="257" key="GridCell.Tab.0.bottom/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595671096764" />
-    <state width="1840" height="260" key="GridCell.Tab.0.bottom/0.23.1680.965/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595648184439" />
-    <state width="1777" height="507" key="GridCell.Tab.0.bottom/0.23.1680.975/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592111090978" />
-    <state width="1777" height="507" key="GridCell.Tab.0.bottom/0.23.1680.976/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592112809239" />
-    <state width="1747" height="345" key="GridCell.Tab.0.bottom/0.23.1680.978/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592097525286" />
+    <state width="1847" height="261" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.59.1920.988@1680.59.1920.988" timestamp="1596472868127" />
+    <state width="1790" height="217" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.59.1920.990@1680.59.1920.990" timestamp="1598633859169" />
+    <state width="1790" height="217" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.59.1920.991@1680.59.1920.991" timestamp="1598633322642" />
+    <state width="1790" height="217" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.59.1920.993@1680.59.1920.993" timestamp="1598629763285" />
+    <state width="1790" height="217" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.59.1920.994@1680.59.1920.994" timestamp="1598630008199" />
+    <state width="1854" height="289" key="GridCell.Tab.0.bottom/0.23.1680.961/1680.23.1920.1057@1680.23.1920.1057" timestamp="1595902384228" />
+    <state width="1802" height="280" key="GridCell.Tab.0.bottom/0.23.1680.961/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595896596876" />
+    <state width="1854" height="293" key="GridCell.Tab.0.bottom/0.23.1680.962/1680.23.1920.1057@1680.23.1920.1057" timestamp="1595906956975" />
+    <state width="1821" height="346" key="GridCell.Tab.0.bottom/0.23.1680.962/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598115852964" />
+    <state width="1828" height="241" key="GridCell.Tab.0.bottom/0.23.1680.964/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598596050348" />
+    <state width="1821" height="273" key="GridCell.Tab.0.bottom/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598114264095" />
+    <state width="1828" height="241" key="GridCell.Tab.0.bottom/0.23.1680.965/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598595847242" />
+    <state width="1821" height="273" key="GridCell.Tab.0.bottom/0.23.1680.965/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598199570995" />
+    <state width="1764" height="241" key="GridCell.Tab.0.bottom/0.23.1680.967/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598615786550" />
+    <state width="1790" height="217" key="GridCell.Tab.0.bottom/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598720890894" />
+    <state width="1638" height="320" key="GridCell.Tab.0.bottom/0.23.1680.967@0.23.1680.967" timestamp="1595869168488" />
+    <state width="1764" height="241" key="GridCell.Tab.0.bottom/0.23.1680.971/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598615373566" />
+    <state width="1821" height="273" key="GridCell.Tab.0.bottom/0.23.1680.971/1680.59.1920.1057@1680.59.1920.1057" timestamp="1597596129256" />
+    <state width="1568" height="293" key="GridCell.Tab.0.bottom/0.23.1680.971@0.23.1680.971" timestamp="1595950658126" />
+    <state width="1764" height="241" key="GridCell.Tab.0.bottom/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598615111146" />
+    <state width="1834" height="257" key="GridCell.Tab.0.bottom/0.23.1680.972/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595687601999" />
+    <state width="1638" height="107" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1595868777392" />
+    <state width="1821" height="328" key="GridCell.Tab.0.bottom/0.23.1680.973/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598529645326" />
+    <state width="1834" height="257" key="GridCell.Tab.0.bottom/0.23.1680.973/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595685100732" />
+    <state width="1638" height="107" key="GridCell.Tab.0.bottom/0.23.1680.973@0.23.1680.973" timestamp="1595868660929" />
+    <state width="1828" height="242" key="GridCell.Tab.0.bottom/0.23.1680.975/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598528835848" />
+    <state width="1821" height="273" key="GridCell.Tab.0.bottom/0.23.1680.975/1680.59.1920.1057@1680.59.1920.1057" timestamp="1597573342914" />
+    <state width="1828" height="242" key="GridCell.Tab.0.bottom/0.23.1680.976/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598522462728" />
+    <state width="1638" height="297" key="GridCell.Tab.0.bottom/0.23.1680.976/1680.59.1920.1057@0.23.1680.976" timestamp="1596301885775" />
+    <state width="1821" height="273" key="GridCell.Tab.0.bottom/0.23.1680.976/1680.59.1920.1057@1680.59.1920.1057" timestamp="1597574651433" />
+    <state width="1828" height="242" key="GridCell.Tab.0.bottom/0.23.1680.977/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598519250647" />
+    <state width="1638" height="297" key="GridCell.Tab.0.bottom/0.23.1680.977/1680.59.1920.1057@0.23.1680.977" timestamp="1596338366837" />
+    <state width="1846" height="281" key="GridCell.Tab.0.bottom/0.23.1680.977/1680.59.1920.1057@1680.59.1920.1057" timestamp="1596382625502" />
+    <state width="1846" height="281" key="GridCell.Tab.0.bottom/0.23.1680.978/1680.59.1920.1057@1680.59.1920.1057" timestamp="1596382067403" />
+    <state width="1638" height="325" key="GridCell.Tab.0.bottom/0.23.1680.979/1680.23.1920.1057@0.23.1680.979" timestamp="1597127887601" />
+    <state width="1846" height="281" key="GridCell.Tab.0.bottom/0.23.1680.979/1680.59.1920.1057@1680.59.1920.1057" timestamp="1596359296377" />
     <state width="1777" height="284" key="GridCell.Tab.0.bottom/0.23.1680.980/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592103116442" />
+    <state width="1638" height="325" key="GridCell.Tab.0.bottom/0.23.1680.980@0.23.1680.980" timestamp="1597112663918" />
     <state width="1803" height="247" key="GridCell.Tab.0.bottom/0.23.1680.981/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592321079365" />
     <state width="1803" height="247" key="GridCell.Tab.0.bottom/0.23.1680.982/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592296026736" />
     <state width="1803" height="243" key="GridCell.Tab.0.bottom/0.23.1680.983/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592279455387" />
-    <state width="1834" height="257" key="GridCell.Tab.0.center" timestamp="1595671096762">
+    <state width="1790" height="217" key="GridCell.Tab.0.center" timestamp="1598720890893">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
-    <state width="1777" height="223" key="GridCell.Tab.0.center/0.23.1680.1027/1680.59.1920.1003@1680.59.1920.1003" timestamp="1592107483688" />
+    <state width="1878" height="297" key="GridCell.Tab.0.center/0.0.1680.1050/1680.36.1920.1080@1680.36.1920.1080" timestamp="1596339368346" />
+    <state width="1830" height="201" key="GridCell.Tab.0.center/0.23.1680.1027/1680.23.1920.990@1680.23.1920.990" timestamp="1598440624542" />
+    <state width="1846" height="264" key="GridCell.Tab.0.center/0.23.1680.1027/1680.59.1920.1001@1680.59.1920.1001" timestamp="1596389002981" />
+    <state width="1846" height="264" key="GridCell.Tab.0.center/0.23.1680.1027/1680.59.1920.1002@1680.59.1920.1002" timestamp="1596390775371" />
+    <state width="1846" height="264" key="GridCell.Tab.0.center/0.23.1680.1027/1680.59.1920.1003@1680.59.1920.1003" timestamp="1596383678072" />
     <state width="1777" height="284" key="GridCell.Tab.0.center/0.23.1680.1027/1680.59.1920.1005@1680.59.1920.1005" timestamp="1592105248722" />
     <state width="1777" height="353" key="GridCell.Tab.0.center/0.23.1680.1027/1680.59.1920.1006@1680.59.1920.1006" timestamp="1592106473749" />
     <state width="1777" height="284" key="GridCell.Tab.0.center/0.23.1680.1027/1680.59.1920.1007@1680.59.1920.1007" timestamp="1592103415319" />
-    <state width="1834" height="257" key="GridCell.Tab.0.center/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595671096762" />
-    <state width="1840" height="260" key="GridCell.Tab.0.center/0.23.1680.965/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595648184438" />
-    <state width="1777" height="507" key="GridCell.Tab.0.center/0.23.1680.975/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592111090977" />
-    <state width="1777" height="507" key="GridCell.Tab.0.center/0.23.1680.976/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592112809238" />
-    <state width="1747" height="345" key="GridCell.Tab.0.center/0.23.1680.978/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592097525285" />
+    <state width="1847" height="261" key="GridCell.Tab.0.center/0.23.1680.1027/1680.59.1920.988@1680.59.1920.988" timestamp="1596472868126" />
+    <state width="1790" height="217" key="GridCell.Tab.0.center/0.23.1680.1027/1680.59.1920.990@1680.59.1920.990" timestamp="1598633859168" />
+    <state width="1790" height="217" key="GridCell.Tab.0.center/0.23.1680.1027/1680.59.1920.991@1680.59.1920.991" timestamp="1598633322639" />
+    <state width="1790" height="217" key="GridCell.Tab.0.center/0.23.1680.1027/1680.59.1920.993@1680.59.1920.993" timestamp="1598629763284" />
+    <state width="1790" height="217" key="GridCell.Tab.0.center/0.23.1680.1027/1680.59.1920.994@1680.59.1920.994" timestamp="1598630008198" />
+    <state width="1854" height="289" key="GridCell.Tab.0.center/0.23.1680.961/1680.23.1920.1057@1680.23.1920.1057" timestamp="1595902384227" />
+    <state width="1802" height="280" key="GridCell.Tab.0.center/0.23.1680.961/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595896596875" />
+    <state width="1854" height="293" key="GridCell.Tab.0.center/0.23.1680.962/1680.23.1920.1057@1680.23.1920.1057" timestamp="1595906956974" />
+    <state width="1821" height="346" key="GridCell.Tab.0.center/0.23.1680.962/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598115852964" />
+    <state width="1828" height="241" key="GridCell.Tab.0.center/0.23.1680.964/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598596050347" />
+    <state width="1821" height="273" key="GridCell.Tab.0.center/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598114264094" />
+    <state width="1828" height="241" key="GridCell.Tab.0.center/0.23.1680.965/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598595847241" />
+    <state width="1821" height="273" key="GridCell.Tab.0.center/0.23.1680.965/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598199570994" />
+    <state width="1764" height="241" key="GridCell.Tab.0.center/0.23.1680.967/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598615786549" />
+    <state width="1790" height="217" key="GridCell.Tab.0.center/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598720890893" />
+    <state width="1638" height="320" key="GridCell.Tab.0.center/0.23.1680.967@0.23.1680.967" timestamp="1595869168487" />
+    <state width="1764" height="241" key="GridCell.Tab.0.center/0.23.1680.971/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598615373565" />
+    <state width="1821" height="273" key="GridCell.Tab.0.center/0.23.1680.971/1680.59.1920.1057@1680.59.1920.1057" timestamp="1597596129254" />
+    <state width="1568" height="293" key="GridCell.Tab.0.center/0.23.1680.971@0.23.1680.971" timestamp="1595950658125" />
+    <state width="1764" height="241" key="GridCell.Tab.0.center/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598615111145" />
+    <state width="1834" height="257" key="GridCell.Tab.0.center/0.23.1680.972/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595687601997" />
+    <state width="1638" height="107" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1595868777391" />
+    <state width="1821" height="328" key="GridCell.Tab.0.center/0.23.1680.973/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598529645325" />
+    <state width="1834" height="257" key="GridCell.Tab.0.center/0.23.1680.973/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595685100730" />
+    <state width="1638" height="107" key="GridCell.Tab.0.center/0.23.1680.973@0.23.1680.973" timestamp="1595868660928" />
+    <state width="1828" height="242" key="GridCell.Tab.0.center/0.23.1680.975/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598528835847" />
+    <state width="1821" height="273" key="GridCell.Tab.0.center/0.23.1680.975/1680.59.1920.1057@1680.59.1920.1057" timestamp="1597573342913" />
+    <state width="1828" height="242" key="GridCell.Tab.0.center/0.23.1680.976/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598522462727" />
+    <state width="1638" height="297" key="GridCell.Tab.0.center/0.23.1680.976/1680.59.1920.1057@0.23.1680.976" timestamp="1596301885774" />
+    <state width="1821" height="273" key="GridCell.Tab.0.center/0.23.1680.976/1680.59.1920.1057@1680.59.1920.1057" timestamp="1597574651432" />
+    <state width="1828" height="242" key="GridCell.Tab.0.center/0.23.1680.977/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598519250647" />
+    <state width="1638" height="297" key="GridCell.Tab.0.center/0.23.1680.977/1680.59.1920.1057@0.23.1680.977" timestamp="1596338366836" />
+    <state width="1846" height="281" key="GridCell.Tab.0.center/0.23.1680.977/1680.59.1920.1057@1680.59.1920.1057" timestamp="1596382625501" />
+    <state width="1846" height="281" key="GridCell.Tab.0.center/0.23.1680.978/1680.59.1920.1057@1680.59.1920.1057" timestamp="1596382067402" />
+    <state width="1638" height="325" key="GridCell.Tab.0.center/0.23.1680.979/1680.23.1920.1057@0.23.1680.979" timestamp="1597127887600" />
+    <state width="1846" height="281" key="GridCell.Tab.0.center/0.23.1680.979/1680.59.1920.1057@1680.59.1920.1057" timestamp="1596359296376" />
     <state width="1777" height="284" key="GridCell.Tab.0.center/0.23.1680.980/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592103116441" />
+    <state width="1638" height="325" key="GridCell.Tab.0.center/0.23.1680.980@0.23.1680.980" timestamp="1597112663917" />
     <state width="1803" height="247" key="GridCell.Tab.0.center/0.23.1680.981/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592321079364" />
     <state width="1803" height="247" key="GridCell.Tab.0.center/0.23.1680.982/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592296026734" />
     <state width="1803" height="243" key="GridCell.Tab.0.center/0.23.1680.983/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592279455386" />
-    <state width="1834" height="257" key="GridCell.Tab.0.left" timestamp="1595671096762">
+    <state width="1790" height="217" key="GridCell.Tab.0.left" timestamp="1598720890892">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
-    <state width="1777" height="223" key="GridCell.Tab.0.left/0.23.1680.1027/1680.59.1920.1003@1680.59.1920.1003" timestamp="1592107483687" />
+    <state width="1878" height="297" key="GridCell.Tab.0.left/0.0.1680.1050/1680.36.1920.1080@1680.36.1920.1080" timestamp="1596339368345" />
+    <state width="1830" height="201" key="GridCell.Tab.0.left/0.23.1680.1027/1680.23.1920.990@1680.23.1920.990" timestamp="1598440624542" />
+    <state width="1846" height="264" key="GridCell.Tab.0.left/0.23.1680.1027/1680.59.1920.1001@1680.59.1920.1001" timestamp="1596389002980" />
+    <state width="1846" height="264" key="GridCell.Tab.0.left/0.23.1680.1027/1680.59.1920.1002@1680.59.1920.1002" timestamp="1596390775370" />
+    <state width="1846" height="264" key="GridCell.Tab.0.left/0.23.1680.1027/1680.59.1920.1003@1680.59.1920.1003" timestamp="1596383678072" />
     <state width="1777" height="284" key="GridCell.Tab.0.left/0.23.1680.1027/1680.59.1920.1005@1680.59.1920.1005" timestamp="1592105248721" />
     <state width="1777" height="353" key="GridCell.Tab.0.left/0.23.1680.1027/1680.59.1920.1006@1680.59.1920.1006" timestamp="1592106473748" />
     <state width="1777" height="284" key="GridCell.Tab.0.left/0.23.1680.1027/1680.59.1920.1007@1680.59.1920.1007" timestamp="1592103415318" />
-    <state width="1834" height="257" key="GridCell.Tab.0.left/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595671096762" />
-    <state width="1840" height="260" key="GridCell.Tab.0.left/0.23.1680.965/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595648184437" />
-    <state width="1777" height="507" key="GridCell.Tab.0.left/0.23.1680.975/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592111090976" />
-    <state width="1777" height="507" key="GridCell.Tab.0.left/0.23.1680.976/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592112809237" />
-    <state width="1747" height="345" key="GridCell.Tab.0.left/0.23.1680.978/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592097525285" />
+    <state width="1847" height="261" key="GridCell.Tab.0.left/0.23.1680.1027/1680.59.1920.988@1680.59.1920.988" timestamp="1596472868125" />
+    <state width="1790" height="217" key="GridCell.Tab.0.left/0.23.1680.1027/1680.59.1920.990@1680.59.1920.990" timestamp="1598633859167" />
+    <state width="1790" height="217" key="GridCell.Tab.0.left/0.23.1680.1027/1680.59.1920.991@1680.59.1920.991" timestamp="1598633322638" />
+    <state width="1790" height="217" key="GridCell.Tab.0.left/0.23.1680.1027/1680.59.1920.993@1680.59.1920.993" timestamp="1598629763283" />
+    <state width="1790" height="217" key="GridCell.Tab.0.left/0.23.1680.1027/1680.59.1920.994@1680.59.1920.994" timestamp="1598630008198" />
+    <state width="1854" height="289" key="GridCell.Tab.0.left/0.23.1680.961/1680.23.1920.1057@1680.23.1920.1057" timestamp="1595902384225" />
+    <state width="1802" height="280" key="GridCell.Tab.0.left/0.23.1680.961/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595896596875" />
+    <state width="1854" height="293" key="GridCell.Tab.0.left/0.23.1680.962/1680.23.1920.1057@1680.23.1920.1057" timestamp="1595906956973" />
+    <state width="1821" height="346" key="GridCell.Tab.0.left/0.23.1680.962/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598115852963" />
+    <state width="1828" height="241" key="GridCell.Tab.0.left/0.23.1680.964/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598596050346" />
+    <state width="1821" height="273" key="GridCell.Tab.0.left/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598114264093" />
+    <state width="1828" height="241" key="GridCell.Tab.0.left/0.23.1680.965/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598595847240" />
+    <state width="1821" height="273" key="GridCell.Tab.0.left/0.23.1680.965/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598199570993" />
+    <state width="1764" height="241" key="GridCell.Tab.0.left/0.23.1680.967/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598615786549" />
+    <state width="1790" height="217" key="GridCell.Tab.0.left/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598720890892" />
+    <state width="1638" height="320" key="GridCell.Tab.0.left/0.23.1680.967@0.23.1680.967" timestamp="1595869168487" />
+    <state width="1764" height="241" key="GridCell.Tab.0.left/0.23.1680.971/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598615373564" />
+    <state width="1821" height="273" key="GridCell.Tab.0.left/0.23.1680.971/1680.59.1920.1057@1680.59.1920.1057" timestamp="1597596129253" />
+    <state width="1568" height="293" key="GridCell.Tab.0.left/0.23.1680.971@0.23.1680.971" timestamp="1595950658125" />
+    <state width="1764" height="241" key="GridCell.Tab.0.left/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598615111145" />
+    <state width="1834" height="257" key="GridCell.Tab.0.left/0.23.1680.972/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595687601997" />
+    <state width="1638" height="107" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1595868777390" />
+    <state width="1821" height="328" key="GridCell.Tab.0.left/0.23.1680.973/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598529645324" />
+    <state width="1834" height="257" key="GridCell.Tab.0.left/0.23.1680.973/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595685100729" />
+    <state width="1638" height="107" key="GridCell.Tab.0.left/0.23.1680.973@0.23.1680.973" timestamp="1595868660928" />
+    <state width="1828" height="242" key="GridCell.Tab.0.left/0.23.1680.975/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598528835846" />
+    <state width="1821" height="273" key="GridCell.Tab.0.left/0.23.1680.975/1680.59.1920.1057@1680.59.1920.1057" timestamp="1597573342912" />
+    <state width="1828" height="242" key="GridCell.Tab.0.left/0.23.1680.976/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598522462726" />
+    <state width="1638" height="297" key="GridCell.Tab.0.left/0.23.1680.976/1680.59.1920.1057@0.23.1680.976" timestamp="1596301885774" />
+    <state width="1821" height="273" key="GridCell.Tab.0.left/0.23.1680.976/1680.59.1920.1057@1680.59.1920.1057" timestamp="1597574651431" />
+    <state width="1828" height="242" key="GridCell.Tab.0.left/0.23.1680.977/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598519250646" />
+    <state width="1638" height="297" key="GridCell.Tab.0.left/0.23.1680.977/1680.59.1920.1057@0.23.1680.977" timestamp="1596338366835" />
+    <state width="1846" height="281" key="GridCell.Tab.0.left/0.23.1680.977/1680.59.1920.1057@1680.59.1920.1057" timestamp="1596382625500" />
+    <state width="1846" height="281" key="GridCell.Tab.0.left/0.23.1680.978/1680.59.1920.1057@1680.59.1920.1057" timestamp="1596382067401" />
+    <state width="1638" height="325" key="GridCell.Tab.0.left/0.23.1680.979/1680.23.1920.1057@0.23.1680.979" timestamp="1597127887599" />
+    <state width="1846" height="281" key="GridCell.Tab.0.left/0.23.1680.979/1680.59.1920.1057@1680.59.1920.1057" timestamp="1596359296375" />
     <state width="1777" height="284" key="GridCell.Tab.0.left/0.23.1680.980/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592103116441" />
+    <state width="1638" height="325" key="GridCell.Tab.0.left/0.23.1680.980@0.23.1680.980" timestamp="1597112663916" />
     <state width="1803" height="247" key="GridCell.Tab.0.left/0.23.1680.981/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592321079364" />
     <state width="1803" height="247" key="GridCell.Tab.0.left/0.23.1680.982/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592296026733" />
     <state width="1803" height="243" key="GridCell.Tab.0.left/0.23.1680.983/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592279455385" />
-    <state width="1834" height="257" key="GridCell.Tab.0.right" timestamp="1595671096763">
+    <state width="1790" height="217" key="GridCell.Tab.0.right" timestamp="1598720890894">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
-    <state width="1777" height="223" key="GridCell.Tab.0.right/0.23.1680.1027/1680.59.1920.1003@1680.59.1920.1003" timestamp="1592107483688" />
+    <state width="1878" height="297" key="GridCell.Tab.0.right/0.0.1680.1050/1680.36.1920.1080@1680.36.1920.1080" timestamp="1596339368347" />
+    <state width="1830" height="201" key="GridCell.Tab.0.right/0.23.1680.1027/1680.23.1920.990@1680.23.1920.990" timestamp="1598440624543" />
+    <state width="1846" height="264" key="GridCell.Tab.0.right/0.23.1680.1027/1680.59.1920.1001@1680.59.1920.1001" timestamp="1596389002981" />
+    <state width="1846" height="264" key="GridCell.Tab.0.right/0.23.1680.1027/1680.59.1920.1002@1680.59.1920.1002" timestamp="1596390775371" />
+    <state width="1846" height="264" key="GridCell.Tab.0.right/0.23.1680.1027/1680.59.1920.1003@1680.59.1920.1003" timestamp="1596383678073" />
     <state width="1777" height="284" key="GridCell.Tab.0.right/0.23.1680.1027/1680.59.1920.1005@1680.59.1920.1005" timestamp="1592105248722" />
     <state width="1777" height="353" key="GridCell.Tab.0.right/0.23.1680.1027/1680.59.1920.1006@1680.59.1920.1006" timestamp="1592106473749" />
     <state width="1777" height="284" key="GridCell.Tab.0.right/0.23.1680.1027/1680.59.1920.1007@1680.59.1920.1007" timestamp="1592103415320" />
-    <state width="1834" height="257" key="GridCell.Tab.0.right/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595671096763" />
-    <state width="1840" height="260" key="GridCell.Tab.0.right/0.23.1680.965/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595648184439" />
-    <state width="1777" height="507" key="GridCell.Tab.0.right/0.23.1680.975/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592111090977" />
-    <state width="1777" height="507" key="GridCell.Tab.0.right/0.23.1680.976/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592112809239" />
-    <state width="1747" height="345" key="GridCell.Tab.0.right/0.23.1680.978/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592097525286" />
+    <state width="1847" height="261" key="GridCell.Tab.0.right/0.23.1680.1027/1680.59.1920.988@1680.59.1920.988" timestamp="1596472868127" />
+    <state width="1790" height="217" key="GridCell.Tab.0.right/0.23.1680.1027/1680.59.1920.990@1680.59.1920.990" timestamp="1598633859168" />
+    <state width="1790" height="217" key="GridCell.Tab.0.right/0.23.1680.1027/1680.59.1920.991@1680.59.1920.991" timestamp="1598633322641" />
+    <state width="1790" height="217" key="GridCell.Tab.0.right/0.23.1680.1027/1680.59.1920.993@1680.59.1920.993" timestamp="1598629763284" />
+    <state width="1790" height="217" key="GridCell.Tab.0.right/0.23.1680.1027/1680.59.1920.994@1680.59.1920.994" timestamp="1598630008199" />
+    <state width="1854" height="289" key="GridCell.Tab.0.right/0.23.1680.961/1680.23.1920.1057@1680.23.1920.1057" timestamp="1595902384227" />
+    <state width="1802" height="280" key="GridCell.Tab.0.right/0.23.1680.961/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595896596876" />
+    <state width="1854" height="293" key="GridCell.Tab.0.right/0.23.1680.962/1680.23.1920.1057@1680.23.1920.1057" timestamp="1595906956975" />
+    <state width="1821" height="346" key="GridCell.Tab.0.right/0.23.1680.962/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598115852964" />
+    <state width="1828" height="241" key="GridCell.Tab.0.right/0.23.1680.964/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598596050347" />
+    <state width="1821" height="273" key="GridCell.Tab.0.right/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598114264095" />
+    <state width="1828" height="241" key="GridCell.Tab.0.right/0.23.1680.965/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598595847242" />
+    <state width="1821" height="273" key="GridCell.Tab.0.right/0.23.1680.965/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598199570995" />
+    <state width="1764" height="241" key="GridCell.Tab.0.right/0.23.1680.967/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598615786550" />
+    <state width="1790" height="217" key="GridCell.Tab.0.right/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598720890894" />
+    <state width="1638" height="320" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1595869168488" />
+    <state width="1764" height="241" key="GridCell.Tab.0.right/0.23.1680.971/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598615373565" />
+    <state width="1821" height="273" key="GridCell.Tab.0.right/0.23.1680.971/1680.59.1920.1057@1680.59.1920.1057" timestamp="1597596129255" />
+    <state width="1568" height="293" key="GridCell.Tab.0.right/0.23.1680.971@0.23.1680.971" timestamp="1595950658126" />
+    <state width="1764" height="241" key="GridCell.Tab.0.right/0.23.1680.972/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598615111146" />
+    <state width="1834" height="257" key="GridCell.Tab.0.right/0.23.1680.972/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595687601998" />
+    <state width="1638" height="107" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1595868777391" />
+    <state width="1821" height="328" key="GridCell.Tab.0.right/0.23.1680.973/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598529645325" />
+    <state width="1834" height="257" key="GridCell.Tab.0.right/0.23.1680.973/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595685100731" />
+    <state width="1638" height="107" key="GridCell.Tab.0.right/0.23.1680.973@0.23.1680.973" timestamp="1595868660929" />
+    <state width="1828" height="242" key="GridCell.Tab.0.right/0.23.1680.975/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598528835847" />
+    <state width="1821" height="273" key="GridCell.Tab.0.right/0.23.1680.975/1680.59.1920.1057@1680.59.1920.1057" timestamp="1597573342914" />
+    <state width="1828" height="242" key="GridCell.Tab.0.right/0.23.1680.976/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598522462727" />
+    <state width="1638" height="297" key="GridCell.Tab.0.right/0.23.1680.976/1680.59.1920.1057@0.23.1680.976" timestamp="1596301885775" />
+    <state width="1821" height="273" key="GridCell.Tab.0.right/0.23.1680.976/1680.59.1920.1057@1680.59.1920.1057" timestamp="1597574651433" />
+    <state width="1828" height="242" key="GridCell.Tab.0.right/0.23.1680.977/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598519250647" />
+    <state width="1638" height="297" key="GridCell.Tab.0.right/0.23.1680.977/1680.59.1920.1057@0.23.1680.977" timestamp="1596338366836" />
+    <state width="1846" height="281" key="GridCell.Tab.0.right/0.23.1680.977/1680.59.1920.1057@1680.59.1920.1057" timestamp="1596382625501" />
+    <state width="1846" height="281" key="GridCell.Tab.0.right/0.23.1680.978/1680.59.1920.1057@1680.59.1920.1057" timestamp="1596382067403" />
+    <state width="1638" height="325" key="GridCell.Tab.0.right/0.23.1680.979/1680.23.1920.1057@0.23.1680.979" timestamp="1597127887601" />
+    <state width="1846" height="281" key="GridCell.Tab.0.right/0.23.1680.979/1680.59.1920.1057@1680.59.1920.1057" timestamp="1596359296376" />
     <state width="1777" height="284" key="GridCell.Tab.0.right/0.23.1680.980/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592103116441" />
+    <state width="1638" height="325" key="GridCell.Tab.0.right/0.23.1680.980@0.23.1680.980" timestamp="1597112663917" />
     <state width="1803" height="247" key="GridCell.Tab.0.right/0.23.1680.981/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592321079365" />
     <state width="1803" height="247" key="GridCell.Tab.0.right/0.23.1680.982/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592296026734" />
     <state width="1803" height="243" key="GridCell.Tab.0.right/0.23.1680.983/1680.59.1920.1057@1680.59.1920.1057" timestamp="1592279455387" />
-    <state x="2105" y="136" key="SettingsEditor" timestamp="1595671246977">
+    <state width="1821" height="328" key="GridCell.Tab.1.bottom" timestamp="1598529645327">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1821" height="346" key="GridCell.Tab.1.bottom/0.23.1680.962/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598115852966" />
+    <state width="1834" height="351" key="GridCell.Tab.1.bottom/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595781968234" />
+    <state width="1821" height="328" key="GridCell.Tab.1.bottom/0.23.1680.967/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598424117934" />
+    <state width="1638" height="320" key="GridCell.Tab.1.bottom/0.23.1680.967@0.23.1680.967" timestamp="1595869168490" />
+    <state width="1821" height="328" key="GridCell.Tab.1.bottom/0.23.1680.973/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598529645327" />
+    <state width="1638" height="325" key="GridCell.Tab.1.bottom/0.23.1680.979/1680.23.1920.1057@0.23.1680.979" timestamp="1597127887603" />
+    <state width="1638" height="325" key="GridCell.Tab.1.bottom/0.23.1680.980@0.23.1680.980" timestamp="1597112663919" />
+    <state width="1821" height="328" key="GridCell.Tab.1.center" timestamp="1598529645327">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1821" height="346" key="GridCell.Tab.1.center/0.23.1680.962/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598115852965" />
+    <state width="1834" height="351" key="GridCell.Tab.1.center/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595781968233" />
+    <state width="1821" height="328" key="GridCell.Tab.1.center/0.23.1680.967/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598424117933" />
+    <state width="1638" height="320" key="GridCell.Tab.1.center/0.23.1680.967@0.23.1680.967" timestamp="1595869168489" />
+    <state width="1821" height="328" key="GridCell.Tab.1.center/0.23.1680.973/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598529645327" />
+    <state width="1638" height="325" key="GridCell.Tab.1.center/0.23.1680.979/1680.23.1920.1057@0.23.1680.979" timestamp="1597127887602" />
+    <state width="1638" height="325" key="GridCell.Tab.1.center/0.23.1680.980@0.23.1680.980" timestamp="1597112663918" />
+    <state width="1821" height="328" key="GridCell.Tab.1.left" timestamp="1598529645326">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1821" height="346" key="GridCell.Tab.1.left/0.23.1680.962/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598115852965" />
+    <state width="1834" height="351" key="GridCell.Tab.1.left/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595781968233" />
+    <state width="1821" height="328" key="GridCell.Tab.1.left/0.23.1680.967/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598424117933" />
+    <state width="1638" height="320" key="GridCell.Tab.1.left/0.23.1680.967@0.23.1680.967" timestamp="1595869168489" />
+    <state width="1821" height="328" key="GridCell.Tab.1.left/0.23.1680.973/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598529645326" />
+    <state width="1638" height="325" key="GridCell.Tab.1.left/0.23.1680.979/1680.23.1920.1057@0.23.1680.979" timestamp="1597127887602" />
+    <state width="1638" height="325" key="GridCell.Tab.1.left/0.23.1680.980@0.23.1680.980" timestamp="1597112663918" />
+    <state width="1821" height="328" key="GridCell.Tab.1.right" timestamp="1598529645327">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1821" height="346" key="GridCell.Tab.1.right/0.23.1680.962/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598115852965" />
+    <state width="1834" height="351" key="GridCell.Tab.1.right/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595781968234" />
+    <state width="1821" height="328" key="GridCell.Tab.1.right/0.23.1680.967/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598424117934" />
+    <state width="1638" height="320" key="GridCell.Tab.1.right/0.23.1680.967@0.23.1680.967" timestamp="1595869168489" />
+    <state width="1821" height="328" key="GridCell.Tab.1.right/0.23.1680.973/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598529645327" />
+    <state width="1638" height="325" key="GridCell.Tab.1.right/0.23.1680.979/1680.23.1920.1057@0.23.1680.979" timestamp="1597127887603" />
+    <state width="1638" height="325" key="GridCell.Tab.1.right/0.23.1680.980@0.23.1680.980" timestamp="1597112663919" />
+    <state x="2105" y="136" key="SettingsEditor" timestamp="1598113742537">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
-    <state x="2105" y="136" key="SettingsEditor/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595671246977" />
-    <state x="2105" y="136" key="SettingsEditor/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595646522366" />
-    <state x="2241" y="320" key="Vcs.Push.Dialog.v2" timestamp="1595672094368">
+    <state x="2105" y="136" key="SettingsEditor/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598111263453" />
+    <state x="2105" y="136" key="SettingsEditor/0.23.1680.965/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598113742537" />
+    <state x="2105" y="136" key="SettingsEditor/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598113005224" />
+    <state x="2241" y="320" key="Vcs.Push.Dialog.v2" timestamp="1595672305109">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
-    <state x="2241" y="320" key="Vcs.Push.Dialog.v2/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595672094368" />
-    <state x="2025" y="271" key="new project wizard" timestamp="1595645991317">
+    <state x="2241" y="320" key="Vcs.Push.Dialog.v2/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595672305109" />
+    <state x="1816" y="123" width="1663" height="790" key="dock-window-1" timestamp="1598425142256">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1816" y="123" width="1663" height="790" key="dock-window-1/0.23.1680.965/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598425142256" />
+    <state x="2321" y="291" width="600" height="504" key="find.popup" timestamp="1598632646750">
+      <screen x="1680" y="59" width="1920" height="990" />
+    </state>
+    <state x="2321" y="291" width="600" height="504" key="find.popup/0.23.1680.1027/1680.59.1920.990@1680.59.1920.990" timestamp="1598632646750" />
+    <state x="2321" y="307" width="600" height="538" key="find.popup/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598114229569" />
+    <state x="2321" y="271" width="600" height="538" key="find.popup/0.23.1680.975/1680.23.1920.1057@1680.23.1920.1057" timestamp="1598522633965" />
+    <state x="2074" y="210" width="1212" height="777" key="new project wizard" timestamp="1598111434513">
       <screen x="1680" y="59" width="1920" height="1057" />
     </state>
-    <state x="2025" y="271" key="new project wizard/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1595645991317" />
+    <state x="2025" y="123" width="1212" height="777" key="new project wizard/0.23.1680.964/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598111291242" />
+    <state x="2074" y="210" key="new project wizard/0.23.1680.967/1680.59.1920.1057@1680.59.1920.1057" timestamp="1598111434513" />
   </component>
 </project>
